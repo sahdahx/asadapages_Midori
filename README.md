@@ -29,6 +29,14 @@ It explores the origins, themes, and societal impact of Shoujo Tsubaki while hig
 
 ---
 
+## 🖼 Image Overview
+
+![Slide 1](img/01.png)  
+
+![Slide 2](img/02.png)  
+
+---
+
 ## 👤 About the Author
 
 **Sahda (Asada)** – a Statistics and Data Science student passionate about analyzing data and writing.  
